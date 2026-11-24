@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="Professional GRC Risk Register README" src="https://github.com/user-attachments/assets/2d933ebf-b2dd-46a0-b392-6e43e6316e2f" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # GRC Risk Register & Control Mapping
 
 A demonstration **Governance, Risk, and Compliance (GRC)** project showing how I build and operate a risk register, map controls across multiple frameworks, and track risks from identification through treatment and review.
